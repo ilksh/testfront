@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sanghyunkim/Desktop/5678/testfront",
+      "program": "/Users/sanghyunkim/Desktop/5678/testfront/build/Debug/outDebug"
+    }
+  ]
+}
